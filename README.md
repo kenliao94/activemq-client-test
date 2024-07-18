@@ -1,7 +1,7 @@
 Copy the compiled jar from activemq-client to this directory
 * Example
 ```shell
-$ cp /Users/qrl/amzn/personal_workspace/activemq/activemq-client/target/activemq-client-6.2.0-SNAPSHOT.jar ~/IdeaProjects/AmazonMqTeamDevScripts/src/AmazonMqTeamDevScripts/activemq_oss/ActiveMqSDKTestClient
+$ cp ~/activemq-client/target/activemq-client-6.2.0-SNAPSHOT.jar ~/activemq-client-test
 ```
 Because the pom.xml will install this jar and it assumes the jar to be `activemq-client-6.2.0-SNAPSHOT.jar`
 
